@@ -12,7 +12,7 @@ Ticket management system with MERN stack
 **Support Desk** is a full-stack **MERN (MongoDB, Express, React, Node.js)** ticket management system that allows users to create and manage support tickets with authentication, CRUD operations, and responsive UI.
 
 
-📌 Features
+## 📌 Features
 
 ✅ User authentication using **JWT tokens**
 ✅ Create, read, update, delete **tickets**
@@ -24,7 +24,7 @@ Ticket management system with MERN stack
 
 ---
 
-🧠 Project Flow
+## 🧠 Project Flow
 
 flowchart TD
     A[User] -->|Login / Register| B[React Frontend]
@@ -43,7 +43,7 @@ flowchart TD
 
 ---
 
-📁 Repository Structure
+## 📁 Repository Structure
 
 ```
 supportdesk/
@@ -70,7 +70,7 @@ supportdesk/
 
 ---
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 | Layer      | Technology              |
 | ---------- | ----------------------- |
@@ -82,7 +82,7 @@ supportdesk/
 | State Mgmt | Redux Toolkit           |
 
 ---
-🚀 Getting Started
+### 🚀 Getting Started
 
 ### Prerequisites
 
@@ -147,7 +147,7 @@ Your app should now be running at `http://localhost:3000`
 
 ---
 
-🧪 Usage
+## 🧪 Usage
 
 1. Register a new user
 2. Login using email/password
@@ -157,7 +157,7 @@ Your app should now be running at `http://localhost:3000`
 
 ---
 
-🎯 Future Enhancements
+## 🎯 Future Enhancements
 
 ✔ Add role-based access (admin vs user)
 ✔ Add ticket comments & attachments
@@ -166,8 +166,10 @@ Your app should now be running at `http://localhost:3000`
 
 ---
 
-📫 Contact
-Created by Namburu.Sri Varshitha
+## 📫 Contact
+
+Created by
+Namburu.Sri Varshitha
 
 [2]: https://pranavmappoli.github.io/supportdesk/?utm_source=chatgpt.com "Support Desk - Pranav M"
 [3]: https://github.com/pranavmappoli?utm_source=chatgpt.com "Pranav M pranavmappoli"
